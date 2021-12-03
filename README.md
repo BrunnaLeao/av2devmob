@@ -7,8 +7,6 @@ intruções de jogo no próprio app.
 
 Ferramentas:
   - NodeJs
-  - React Js
-  - JS
+  - React Native
   - Mysql
-  - TomCat
   - Integrantes Victor Alexandre, Brunna Vila Chã e Walace Lima
