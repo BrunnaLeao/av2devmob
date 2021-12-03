@@ -4,3 +4,11 @@ Um jogo feito em reactive native. Uma partida de pedra papel e tesoura gerado al
 
 intruções de jogo no próprio app.
 (versão melhorada porém ainda requer alguns ajustes)
+
+Ferramentas:
+  - NodeJs
+  - React Js
+  - JS
+  - Mysql
+  - TomCat
+  - Integrantes Victor Alexandre, Brunna Vila Chã e Walace Lima
